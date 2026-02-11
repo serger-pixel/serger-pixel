@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привет, я Сергей Ермаков 👋
 
-<!--
-**serger-pixel/serger-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior  
+Изучаю C++ и системное программирование, а также Java и веб-разработку.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- 📧 Email: ermakoffsergey@gmail.com
+- GitHub: [serger-pixel](https://github.com/serger-pixel)
+
+---
+
+## Навыки
+
+**C++**
+- базовый синтаксис, STL, указатели, работа с памятью  
+- основы ООП (классы, инкапсуляция)  
+
+**Java**
+- базовый синтаксис, коллекции  
+- опыт с Spring Boot  
+
+**Linux / Bash**
+- Ubuntu, работа в терминале  
+- написание простых bash-скриптов  
+
+---
+
+## Проекты
+
+**C++**
+- [Coursework: Dynamic Data](https://github.com/serger-pixel/coursework-dynamic-data) — курсовая работа по реализации множества, учебный проект  
+
+**Java**
+- [Vacation Calculator](https://github.com/serger-pixel/vacation-calculator) — микросервис для расчета отпускных, учебный/практический проект  
+
+---
+
+## Цель
+Развиваться как Junior C++ Developer, изучать системное программирование и работать с промышленным кодом.
