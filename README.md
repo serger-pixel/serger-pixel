@@ -1,7 +1,6 @@
 # Привет, я Сергей Ермаков 👋
 
-Junior  
-Изучаю C++ и системное программирование, а также Java и веб-разработку.
+Я студент, интересуюсь системный анализом и разработкой ПО
 
 ---
 
@@ -30,12 +29,11 @@ Junior
 ## Проекты
 
 **C++**
-- [Coursework: Dynamic Data](https://github.com/serger-pixel/coursework-dynamic-data) — курсовая работа по реализации множества, учебный проект  
+- [Coursework: Dynamic Data](https://github.com/serger-pixel/coursework-dynamic-data) — учебный проект по реализации множеств и анализу производительности данных контейнеров
 
 **Java**
 - [Vacation Calculator](https://github.com/serger-pixel/vacation-calculator) — микросервис для расчета отпускных, учебный/практический проект  
 
 ---
 
-## Цель
-Развиваться как Junior C++ Developer, изучать системное программирование и работать с промышленным кодом.
+
